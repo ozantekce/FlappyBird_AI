@@ -1,11 +1,9 @@
 package objects;
 
 import bird.Constants;
-import bird.Main;
 import framework.GameObject;
 import framework.ObjectId;
 import framework.Texture;
-import java.awt.Color;
 import java.awt.Graphics;
 
 
