@@ -4,6 +4,8 @@ You can increase Gamespeed with d and decrease with a.
 If you set learn( in Constants ) to false you can play yourself.(you can jump with space.)
 I used genetic algorithm for machine learning.
 
+You can try this with the jar file inside the build file.
+
 
 
 https://user-images.githubusercontent.com/32203867/160582590-e0172be1-08e5-46c5-a6ed-0b2c08a0d9a5.mp4
