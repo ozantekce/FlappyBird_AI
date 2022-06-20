@@ -2,7 +2,7 @@
 A simple clone game created with java
 You can increase Gamespeed with d and decrease with a.
 If you set learn( in Constants ) to false you can play yourself.(you can jump with space.)
-I used genetic algorithm for machine learning.
+I used genetic algorithm for AI.
 
 You can try this with the jar file inside the build file.
 
